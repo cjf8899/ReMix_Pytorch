@@ -7,7 +7,17 @@
 ## Results 
 TODO
 ## Run
-TODO
+Dataset, structure, and dependencies are the same as the corresponding code [stargan-v2](https://github.com/clovaai/stargan-v2).<br>
+
+### Training
+```Shell
+sh train.sh
+```
+
+### Evaluation
+```Shell
+sh eval.sh
+```
 
 ## Referenced. Thank you all:+1:
 baseline code : https://github.com/clovaai/stargan-v2<br>

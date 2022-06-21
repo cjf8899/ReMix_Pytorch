@@ -8,6 +8,7 @@
 
 #### The remix algorithm is contained in [core/solver_remix.py](https://github.com/cjf8899/ReMix_Pytorch/blob/main/core/solver_remix.py#L243-L287).<br>
 <p align="center"><img src="https://user-images.githubusercontent.com/53032349/174735183-298d0434-ba90-4375-ae44-6833395ff1b8.JPG" width="100%" height="100%" title="70px" alt="memoryblock"></p><br>
+
 ## Run
 
 #### Dataset, structure, and dependencies are the same as the corresponding code [stargan-v2](https://github.com/clovaai/stargan-v2).<br>
